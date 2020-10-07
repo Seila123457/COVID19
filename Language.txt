@@ -14,3 +14,5 @@ tr-TR
 https://pastebin.com/raw/Vu7eRCQG
 es-ES
 https://pastebin.com/raw/6sU3M94T
+ar-AR
+https://pastebin.com/raw/3b4YstCR
